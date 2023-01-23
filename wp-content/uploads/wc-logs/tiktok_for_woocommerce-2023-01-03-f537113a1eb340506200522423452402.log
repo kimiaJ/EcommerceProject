@@ -1,0 +1,20 @@
+2023-01-03T19:50:44+00:00 DEBUG POST: https://ads.tiktok.com/marketing_api/api/developer/app/create_auto_approve/
+
+{"business_platform":"PROD","smb_id":"tt4b_woocommerce_63b48714148aahttplocalhostherbswp-admin","smb_name":"PROD","redirect_url":"http:\/\/localhost\/herbs\/wp-admin\/"}
+ ajax: DOING_AJAX
+2023-01-03T19:50:49+00:00 ERROR Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+http_request_failed: cURL error 28: Connection timed out after 5005 milliseconds
+
+2023-01-03T19:50:54+00:00 ERROR Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+http_request_failed: cURL error 28: Connection timed out after 5013 milliseconds
+
+2023-01-03T19:50:59+00:00 ERROR Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+http_request_failed: cURL error 28: Connection timed out after 5014 milliseconds
+
+2023-01-03T19:51:04+00:00 ERROR Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+http_request_failed: cURL error 28: Connection timed out after 5004 milliseconds
+

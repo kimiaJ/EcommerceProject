@@ -1,0 +1,79 @@
+2023-01-18T08:22:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\herbs\wp-includes\Requests\Transport\cURL.php روی خط 462
+
+2023-01-18T11:58:15+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Customizer_Partials::render_footer_sml_section_1_credit() cannot be called statically in C:\xampp\htdocs\herbs\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\xampp\htdocs\herbs\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\xampp\htdocs\herbs\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\herbs\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\herbs\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\herbs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\herbs\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\herbs\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown در C:\xampp\htdocs\herbs\wp-includes\customize\class-wp-customize-partial.php روی خط 222
+
+2023-01-18T11:58:20+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Customizer_Partials::render_footer_sml_section_1_credit() cannot be called statically in C:\xampp\htdocs\herbs\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\xampp\htdocs\herbs\wp-includes\customize\class-wp-customize-selective-refresh.php(372): WP_Customize_Partial->render(Array)
+#1 C:\xampp\htdocs\herbs\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\herbs\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\herbs\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\herbs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\herbs\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\herbs\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown در C:\xampp\htdocs\herbs\wp-includes\customize\class-wp-customize-partial.php روی خط 222
+
+2023-01-18T11:58:21+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, non-static method Astra_Customizer_Partials::render_footer_sml_section_1_credit() cannot be called statically in C:\xampp\htdocs\herbs\wp-includes\customize\class-wp-customize-partial.php:222
+Stack trace:
+#0 C:\xampp\htdocs\herbs\wp-includes\customize\class-wp-customize-selective-refresh.php(369): WP_Customize_Partial->render(NULL)
+#1 C:\xampp\htdocs\herbs\wp-includes\class-wp-hook.php(308): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\herbs\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\herbs\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\herbs\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\herbs\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\herbs\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown در C:\xampp\htdocs\herbs\wp-includes\customize\class-wp-customize-partial.php روی خط 222
+
+2023-01-18T19:53:49+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "n" in C:\xampp\htdocs\herbs\wp-content\plugins\wpforms-lite\src\Admin\Education\Core.php:119
+Stack trace:
+#0 C:\xampp\htdocs\herbs\wp-content\plugins\wpforms-lite\src\Admin\Education\Core.php(119): sprintf('\xD9\x85\xD8\xAA\xD8\xA7\xD8\xB3\xD9\x81\xDB\x8C\xD9\x85\xD8...', '%name%')
+#1 C:\xampp\htdocs\herbs\wp-content\plugins\wpforms-lite\src\Admin\Education\Core.php(75): WPForms\Admin\Education\Core->get_js_strings()
+#2 C:\xampp\htdocs\herbs\wp-content\plugins\wpforms-lite\src\Lite\Admin\Education\Core.php(31): WPForms\Admin\Education\Core->enqueues()
+#3 C:\xampp\htdocs\herbs\wp-includes\class-wp-hook.php(308): WPForms\Lite\Admin\Education\Core->enqueues('wpforms_page_wp...')
+#4 C:\xampp\htdocs\herbs\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\herbs\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\herbs\wp-admin\admin-header.php(118): do_action('admin_enqueue_s...', 'wpforms_page_wp...')
+#7 C:\xampp\htdocs\herbs\wp-admin\admin.php(239): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown در C:\xampp\htdocs\herbs\wp-content\plugins\wpforms-lite\src\Admin\Education\Core.php روی خط 119
+
+2023-01-18T20:07:36+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "n" in C:\xampp\htdocs\herbs\wp-content\plugins\wpforms-lite\src\Admin\Education\Core.php:119
+Stack trace:
+#0 C:\xampp\htdocs\herbs\wp-content\plugins\wpforms-lite\src\Admin\Education\Core.php(119): sprintf('\xD9\x85\xD8\xAA\xD8\xA7\xD8\xB3\xD9\x81\xDB\x8C\xD9\x85\xD8...', '%name%')
+#1 C:\xampp\htdocs\herbs\wp-content\plugins\wpforms-lite\src\Admin\Education\Core.php(75): WPForms\Admin\Education\Core->get_js_strings()
+#2 C:\xampp\htdocs\herbs\wp-content\plugins\wpforms-lite\src\Lite\Admin\Education\Core.php(31): WPForms\Admin\Education\Core->enqueues()
+#3 C:\xampp\htdocs\herbs\wp-includes\class-wp-hook.php(308): WPForms\Lite\Admin\Education\Core->enqueues('toplevel_page_w...')
+#4 C:\xampp\htdocs\herbs\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\herbs\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\herbs\wp-admin\admin-header.php(118): do_action('admin_enqueue_s...', 'toplevel_page_w...')
+#7 C:\xampp\htdocs\herbs\wp-admin\admin.php(239): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown در C:\xampp\htdocs\herbs\wp-content\plugins\wpforms-lite\src\Admin\Education\Core.php روی خط 119
+
+2023-01-18T20:07:47+00:00 CRITICAL Uncaught ValueError: Unknown format specifier "n" in C:\xampp\htdocs\herbs\wp-content\plugins\wpforms-lite\src\Admin\Education\Core.php:119
+Stack trace:
+#0 C:\xampp\htdocs\herbs\wp-content\plugins\wpforms-lite\src\Admin\Education\Core.php(119): sprintf('\xD9\x85\xD8\xAA\xD8\xA7\xD8\xB3\xD9\x81\xDB\x8C\xD9\x85\xD8...', '%name%')
+#1 C:\xampp\htdocs\herbs\wp-content\plugins\wpforms-lite\src\Admin\Education\Core.php(75): WPForms\Admin\Education\Core->get_js_strings()
+#2 C:\xampp\htdocs\herbs\wp-content\plugins\wpforms-lite\src\Lite\Admin\Education\Core.php(31): WPForms\Admin\Education\Core->enqueues()
+#3 C:\xampp\htdocs\herbs\wp-includes\class-wp-hook.php(308): WPForms\Lite\Admin\Education\Core->enqueues('wpforms_page_wp...')
+#4 C:\xampp\htdocs\herbs\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xampp\htdocs\herbs\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\xampp\htdocs\herbs\wp-admin\admin-header.php(118): do_action('admin_enqueue_s...', 'wpforms_page_wp...')
+#7 C:\xampp\htdocs\herbs\wp-admin\admin.php(239): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown در C:\xampp\htdocs\herbs\wp-content\plugins\wpforms-lite\src\Admin\Education\Core.php روی خط 119
+
+2023-01-18T20:47:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\herbs\wp-includes\Requests\Transport\cURL.php روی خط 165
+

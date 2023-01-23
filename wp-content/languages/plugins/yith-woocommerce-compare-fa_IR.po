@@ -1,0 +1,1239 @@
+# Translation of Plugins - YITH WooCommerce Compare - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - YITH WooCommerce Compare - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-18 06:46:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - YITH WooCommerce Compare - Stable (latest release)\n"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:154
+msgid "Database Free Size"
+msgstr "اندازه آزاد پایگاه داده"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:146
+msgid "Database Index Size"
+msgstr "اندازه ایندکس پایگاه داده"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:138
+msgid "Database Data Size"
+msgstr "اندازه داده پایگاه داده"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:130
+msgid "Total Database Size"
+msgstr "اندازه کلی پایگاه داده"
+
+#. Translators: %s: Codex link.
+#: plugin-fw/templates/sysinfo/tabs/main.php:123
+msgid "WordPress requirements"
+msgstr "ضروریات وردپرس"
+
+#. Translators: %s: Codex link.
+#: plugin-fw/templates/sysinfo/tabs/main.php:123
+msgid "WordPress recommends a minimum MySQL version of 5.6. See: %s"
+msgstr "نسخه 5.6 MySQL حداقل نیاز وردپرس است. ببینید: %s"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:113
+msgid "MySQL version"
+msgstr "نسخه MySQL"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:108
+msgid "Database Info"
+msgstr "اطلاعات پایگاه داده"
+
+#. translators: %s is the name of the plugin that is loading the framework.
+#: plugin-fw/templates/sysinfo/tabs/main.php:64
+msgid "loaded by %s"
+msgstr "بارگذاری شده توسط %s"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:55
+msgid "YITH Plugin Framework Version"
+msgstr "نگارش افزونه فریم ورک YITH"
+
+#: plugin-fw/templates/panel/help-tab.php:204
+msgctxt "Help tab submit ticket button"
+msgid "Submit a ticket"
+msgstr "ارسال تیکت"
+
+#: plugin-fw/templates/panel/help-tab.php:193
+msgctxt "Help tab submit ticket title"
+msgid "Need help?"
+msgstr "به کمک نیاز دارید؟"
+
+#: plugin-fw/templates/panel/help-tab.php:184
+msgctxt "Help tab FAQ link"
+msgid "View all FAQs >"
+msgstr "مشاهده سئوالات متداول >"
+
+#: plugin-fw/templates/panel/help-tab.php:170
+msgctxt "Help tab FAQ title"
+msgid "Last FAQs in our Help Center"
+msgstr "آخرین سئوالات در مرکز پشتیبانی"
+
+#: plugin-fw/templates/panel/help-tab.php:152
+msgctxt "Help tab view FAQs link"
+msgid "Check the FAQs"
+msgstr "سری به بخش سئوالات متداول بزنید"
+
+#: plugin-fw/templates/panel/help-tab.php:126
+msgctxt "Help tab Read Documentation link"
+msgid "Read the documentation"
+msgstr "مستندات را بخوانید"
+
+#: plugin-fw/templates/panel/help-tab.php:96
+msgctxt "Help tab Watch Videotutorials link"
+msgid "Videos are also available in:"
+msgstr "ویدئوها نیز در:"
+
+#. translators: 1. Url to EN playlist.
+#: plugin-fw/templates/panel/help-tab.php:89
+msgctxt "Help tab view all video link"
+msgid "Check the full <a href=\"%s\" target=\"_blank\">Playlist on Youtube</a> to learn more >"
+msgstr "بررسی <a href=\"%s\" target=\"_blank\">پلی لیست کامل در یوتیوب</a> برای یادگیری بیشتر>"
+
+#: plugin-fw/templates/fields/image-dimensions.php:23
+msgctxt "Image height field label"
+msgid "Height"
+msgstr "طول"
+
+#: plugin-fw/templates/fields/image-dimensions.php:18
+msgctxt "Image width field label"
+msgid "Width"
+msgstr "عرض"
+
+#. translators: 1. Plugin name.
+#: plugin-fw/includes/class-yit-plugin-panel.php:804
+msgctxt "Help tab default title"
+msgid "Thank you for purchasing %s!"
+msgstr "از خرید %sشما متشکریم!"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:875
+msgctxt "Help tab name"
+msgid "Help"
+msgstr "راهنمایی"
+
+#: plugin-fw/includes/class-yit-help-desk.php:152
+msgid "There was an error with your request; please try again later."
+msgstr "خطایی در درخواست شما وجود دارد؛ لطفاً بعداً دوباره امتحان کنید."
+
+#: plugin-fw/includes/class-yit-assets.php:160
+msgid "Are you sure you want to delete the selected items?"
+msgstr "آیا مطمئن هستید که می خواهید موارد انتخاب شده را حذف کنید؟"
+
+#: plugin-fw/includes/class-yit-assets.php:157 plugin-fw/yit-functions.php:2009
+msgctxt "Trash confirmation action"
+msgid "Yes, move to trash"
+msgstr "بله ، به زباله دان منتقل شود"
+
+#: plugin-fw/includes/class-yit-assets.php:156
+msgid "Are you sure you want to trash the selected items?"
+msgstr "آیا مطمئن هستید که می خواهید موارد انتخاب شده را حذف کنید؟"
+
+#. translators: %s is the name of the post type (example Back to "Membership
+#. Plans").
+#: plugin-fw/includes/class-yith-post-type-admin.php:286
+msgid "Back to the list"
+msgstr "بازشگت به لیست"
+
+#. translators: %s is the name of the post type (example Back to "Membership
+#. Plans").
+#: plugin-fw/includes/class-yith-post-type-admin.php:286
+msgid "Back to \"%s\""
+msgstr "بازگشت به \"%s\""
+
+#: plugin-fw/includes/class-yit-assets.php:144
+msgctxt "Button text"
+msgid "Cancel"
+msgstr "لغو"
+
+#: plugin-fw/includes/class-yit-assets.php:143
+msgctxt "Button text"
+msgid "Confirm"
+msgstr "تایید نمودن"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:33
+msgid "Options Saved"
+msgstr "گزینه‌ها ذخیره شدند"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:29
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:33
+msgid "Save Options"
+msgstr "ذخیره گزینه‌ها"
+
+#: plugin-fw/yit-functions.php:2145
+msgctxt "Term action"
+msgid "Delete"
+msgstr "حذف"
+
+#: plugin-fw/yit-functions.php:2132
+msgctxt "Term action"
+msgid "Duplicate"
+msgstr "تکثیر کردن"
+
+#: plugin-fw/yit-functions.php:2124
+msgctxt "Term action"
+msgid "Edit"
+msgstr "ویرایش"
+
+#: plugin-fw/yit-functions.php:2114
+msgctxt "Term action"
+msgid "View"
+msgstr "نمایش"
+
+#: plugin-fw/yit-functions.php:2038 plugin-fw/yit-functions.php:2046
+#: plugin-fw/yit-functions.php:2163
+msgid "Further actions"
+msgstr "اقدامات بعدی"
+
+#: plugin-fw/includes/class-yit-assets.php:161 plugin-fw/yit-functions.php:2027
+#: plugin-fw/yit-functions.php:2154
+msgctxt "Delete confirmation action"
+msgid "Yes, delete"
+msgstr "بله، حذف شود"
+
+#: plugin-fw/includes/class-yit-assets.php:159 plugin-fw/yit-functions.php:2024
+#: plugin-fw/yit-functions.php:2152
+msgid "Confirm delete"
+msgstr "تایید حذف"
+
+#: plugin-fw/yit-functions.php:2017
+msgctxt "Post action"
+msgid "Delete Permanently"
+msgstr "حذف دائمی"
+
+#: plugin-fw/includes/class-yit-assets.php:155 plugin-fw/yit-functions.php:2006
+msgid "Confirm trash"
+msgstr "سطل زباله را تأیید کنید"
+
+#: plugin-fw/yit-functions.php:2000
+msgctxt "Post action"
+msgid "Trash"
+msgstr "زباله‌دان"
+
+#: plugin-fw/yit-functions.php:1992
+msgctxt "Post action"
+msgid "Restore"
+msgstr "بازیافت"
+
+#: plugin-fw/yit-functions.php:1980
+msgctxt "Post action"
+msgid "Duplicate"
+msgstr "تکرار کردن"
+
+#: plugin-fw/yit-functions.php:1972
+msgctxt "Post action"
+msgid "Edit"
+msgstr "ویرایش"
+
+#: plugin-fw/yit-functions.php:1961
+msgctxt "Post action"
+msgid "View"
+msgstr "نمایش"
+
+#: plugin-fw/yit-functions.php:1952
+msgctxt "Post action"
+msgid "Preview"
+msgstr "پیش‌نمایش"
+
+#. translators: %s is the title of the post object.
+#: plugin-fw/includes/class-yit-assets.php:160 plugin-fw/yit-functions.php:1940
+#: plugin-fw/yit-functions.php:2100
+msgid "This action cannot be undone and you will not be able to recover this data."
+msgstr "این عمل قابل برگشت نیست و نمی توانید این داده ها را بازیابی کنید."
+
+#. translators: %s is the title of the post object.
+#: plugin-fw/yit-functions.php:1940 plugin-fw/yit-functions.php:2100
+msgid "Are you sure you want to delete \"%s\"?"
+msgstr "آیا از حذف \"%s\" اطمینان دارید؟"
+
+#. translators: %s is the title of the post object.
+#: plugin-fw/yit-functions.php:1938
+msgid "Are you sure you want to move \"%s\" to trash?"
+msgstr "آیا از حذف \"%s\" به زباله دان اطمینان دارید؟"
+
+#: plugin-fw/templates/fields/copy-to-clipboard.php:45
+msgctxt "Copy-to-clipboard button text"
+msgid "Copy"
+msgstr "کپی"
+
+#: plugin-fw/templates/fields/copy-to-clipboard.php:41
+msgctxt "Copy-to-clipboard message"
+msgid "Copied!"
+msgstr "کپی شد!"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1809
+msgid "help us by leaving a good review"
+msgstr "با گذاشتن یک نقد خوب به ما کمک کنید"
+
+#. translators: %s it the Elementor Widget title.
+#: plugin-fw/includes/builders/elementor/class-yith-elementor-widget.php:252
+msgctxt "Elementor Widget - section title"
+msgid "%s - Options"
+msgstr "%s - گزینه‌ها"
+
+#: plugin-fw/templates/fields/date-format.php:70
+msgid "Preview:"
+msgstr "پیش‌نمایش:"
+
+#: plugin-fw/includes/class-yit-pointers.php:97
+msgid "From now on, you can find the option panel of YITH plugins in YITH menu. Every time one of our plugins is added, a new entry will be added to this menu. For example, after the update, plugin options (such as for YITH WooCommerce Wishlist, YITH WooCommerce Ajax Search, etc.) will be moved from previous location to YITH menu."
+msgstr "از این پس می توانید پنل گزینه افزونه های YITH را در منوی YITH پیدا کنید. هر بار که یکی از افزونه های ما اضافه می شود ، یک ورودی جدید به این منو اضافه می شود. به عنوان مثال ، پس از بروزرسانی ، گزینه های افزونه (مانند لیست خواسته های YITH WooCommerce ، YITH WooCommerce Ajax Search و غیره) از مکان قبلی به منوی YITH منتقل می شوند."
+
+#. translators: 1. YITH site link; 2. WordPress site link.
+#: plugin-fw/includes/class-yit-pointers.php:84
+#: plugin-fw/includes/class-yit-pointers.php:100
+msgid "Discover all our plugins available on: %1$s and %2$s"
+msgstr "همه افزونه های ما را در این قسمت پیدا کنید: %1$s و %2$s"
+
+#: plugin-fw/includes/class-yit-pointers.php:81
+msgid "From now on, you can find all plugin options in YITH menu. Plugin customization settings will be available as a new entry in YITH menu."
+msgstr "از این پس می توانید همه گزینه های افزونه را در منوی YITH پیدا کنید. تنظیمات سفارشی سازی افزونه به عنوان ورودی جدید در منوی YITH در دسترس خواهد بود."
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:106
+msgid "Copy Code"
+msgstr "کپی کردن کد"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:106
+msgid "Copied!"
+msgstr "کپی شد!"
+
+#. translators: %s file name.
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:97
+msgid "No Log file available. Enable the WordPress debug by adding this in the %s file of your installation"
+msgstr "گزارشی موجود نیست. اشکال زدایی وردپرس را فعال کنید با افزودن این در %s پرونده نصب شما"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:73
+msgid "The file size exceeds 8 megabytes so it must be downloaded"
+msgstr "پرونده بیش از 8 مگابایت است پس باید دانلود شود"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:60
+msgid "Download"
+msgstr "دانلود"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:73
+msgid "Plugins Requirements"
+msgstr "افزونه‌های ضروری"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:17
+msgid "Site Info"
+msgstr "اطلاعات سایت"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:13
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:25
+msgid "Log Files"
+msgstr "پرونده‌های گزارش"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:12
+msgid "PHPInfo"
+msgstr "اطلاعات PHP"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:47
+msgid "External object cache"
+msgstr "آبجکت کش خارجی"
+
+#: plugin-fw/includes/class-yit-assets.php:186
+msgid "Color value"
+msgstr "مقدار رنگ"
+
+#: plugin-fw/includes/class-yit-assets.php:185
+msgid "Select Color"
+msgstr "انتخاب رنگ"
+
+#: plugin-fw/includes/class-yit-assets.php:184
+msgid "Select default color"
+msgstr "انتخاب رنگ پیش‌فرض"
+
+#: plugin-fw/includes/class-yit-assets.php:183
+msgid "Default"
+msgstr "پیش‌‌فرض"
+
+#: plugin-fw/includes/class-yit-assets.php:182
+msgid "Clear color"
+msgstr "پاک کردن رنگ"
+
+#: plugin-fw/includes/class-yit-assets.php:181
+msgid "Clear"
+msgstr "پاک کردن"
+
+#. translators: %1$s TLS label
+#: plugin-fw/includes/class-yith-system-status.php:616
+msgid "The system check cannot determine which %1$s version is installed due to a connection issue between your site and our server."
+msgstr "سیستم نمی تواند بررسی کند کدام %1$s  نسخه نصب است تا زمانی که ارتباط میان سرور شما و سرور ما برقرار نباشد."
+
+#. translators: %1$s TLS label, %2$s cURL label
+#: plugin-fw/includes/class-yith-system-status.php:613
+msgid "The system check cannot determine which %1$s version is installed because %2$s module is disabled. Ask your hosting company to enable it."
+msgstr "سیستم نمی تواند بررسی کند کدام %1$s  نسخه نصب است %2$s چون ماژول غیرفعال است. از میزبانی سایت خود بخواهید آن را فعال نماید."
+
+#: plugin-fw/includes/class-yith-system-status.php:566
+msgid "Contact your hosting company in order to install it."
+msgstr "برای نصب کردن آن با شرکت میزبان خود تماس بگیرید."
+
+#: plugin-fw/includes/class-yit-assets.php:158
+#: plugin-fw/includes/class-yit-assets.php:162
+#: plugin-fw/templates/sysinfo/tabs/main.php:42
+#: plugin-fw/templates/sysinfo/tabs/main.php:50
+#: plugin-fw/yit-functions.php:2008 plugin-fw/yit-functions.php:2026
+msgid "No"
+msgstr "خیر"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:42
+#: plugin-fw/templates/sysinfo/tabs/main.php:50
+msgid "Yes"
+msgstr "بله"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:39
+msgid "Defined WP_CACHE"
+msgstr "WP_CACHE تعریف شده"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:18
+msgid "PHP error_log file"
+msgstr "فایل error_log پی‌اچ‌پی"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:13
+msgid "WP debug.log file"
+msgstr "فایل debug.log وردپرس"
+
+#: plugin-fw/templates/fields/dimensions.php:94
+msgctxt "Tooltip in the \"Dimensions\" field"
+msgid "Link values together"
+msgstr "پیوند مقادیر به هم"
+
+#: plugin-fw/templates/fields/dimensions.php:16
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Left"
+msgstr "چپ"
+
+#: plugin-fw/templates/fields/dimensions.php:15
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Bottom"
+msgstr "پایین"
+
+#: plugin-fw/templates/fields/dimensions.php:14
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Right"
+msgstr "راست"
+
+#: plugin-fw/templates/fields/dimensions.php:13
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Top"
+msgstr "بالا"
+
+#: plugin-fw/templates/fields/onoff.php:28
+msgctxt "YES/NO button: use MAX 4 characters!"
+msgid "YES"
+msgstr "بله"
+
+#: plugin-fw/templates/fields/onoff.php:29
+msgctxt "YES/NO button: use MAX 4 characters!"
+msgid "NO"
+msgstr "خیر"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1810
+msgid ":) Thanks!"
+msgstr ":) با تشکر!"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1807
+msgid "to keep updating and improving the plugin. Please,"
+msgstr "برای ادامه به‌روزرسانی و بهبود افزونه. لطفا"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1806
+msgid "We need your support"
+msgstr "ما به پشتیبانی شما نیازمندیم"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:31
+msgid "Output IP Address"
+msgstr "نشانی IP خروجی"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:22
+msgid "Site URL"
+msgstr "آدرس سایت"
+
+#: plugin-fw/includes/class-yith-system-status.php:501
+msgid "N/A"
+msgstr "در دسترس نیست"
+
+#. translators: %1$s opening link tag, %2$s closing link tag
+#: plugin-fw/includes/class-yith-system-status.php:585
+#: plugin-fw/includes/class-yith-system-status.php:608
+msgid "Read more %1$shere%2$s or contact your hosting company in order to increase it."
+msgstr "بیشتر بخوانید %1$s اینجا%2$ss یا با میزبان خود برای افزایش آن تماس بگیرید."
+
+#: plugin-fw/includes/class-yith-system-status.php:581
+msgid "Contact your hosting company in order to enable it."
+msgstr "برای فعال شدن این مورد با شرکت ارائه دهنده سرویس هاست خود تماس بگیرید"
+
+#. translators: %1$s code, %2$s file name
+#: plugin-fw/includes/class-yith-system-status.php:573
+msgid "Remove %1$s from %2$s file"
+msgstr "حذف %1$s از %2$s پرونده"
+
+#: plugin-fw/includes/class-yith-system-status.php:562
+#: plugin-fw/includes/class-yith-system-status.php:568
+msgid "Contact your hosting company in order to update it."
+msgstr "با شرکت میزبان خود برای ترتیب بروزرسانی کردن آن تماس بگیرید."
+
+#: plugin-fw/includes/class-yith-system-status.php:558
+msgid "Update it to the latest version in order to benefit of all new features and security updates."
+msgstr "برای بهره مندی از تمامی ویژگی های جدید و به روزرسانی های امنیتی ، آن را به جدیدترین نسخه به روز کنید."
+
+#. translators: %1$s plugin name, %2$s version number
+#: plugin-fw/includes/class-yith-system-status.php:534
+msgid "%1$s needs at least %2$s version"
+msgstr "%1$s حداقل به نسخه %2$s نیاز دارد"
+
+#. translators: %s recommended memory amount
+#: plugin-fw/includes/class-yith-system-status.php:605
+msgid "For optimal functioning of our plugins, we suggest setting at least %s of available memory"
+msgstr "برای عملکرد بهینه افزونه ها ، پیشنهاد می کنیم حداقل%s حافظه موجود را ایجاد کنید"
+
+#. translators: %1$s plugin name, %2$s required memory amount
+#: plugin-fw/includes/class-yith-system-status.php:531
+msgid "%1$s needs at least %2$s of available memory"
+msgstr "%1$s حداقل به %2$s حافظه موجود نیاز است"
+
+#. translators: %1$s plugin name, %2$s requirement name
+#: plugin-fw/includes/class-yith-system-status.php:528
+msgid "%1$s needs %2$s enabled"
+msgstr "%1$s نیاز به %2$s فعال کردن دارد"
+
+#: plugin-fw/includes/class-yith-system-status.php:496
+msgid "Disabled"
+msgstr "غیرفعال شد"
+
+#: plugin-fw/includes/class-yith-system-status.php:496
+msgid "Enabled"
+msgstr "فعال شد"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:22
+msgid "YITH System Information"
+msgstr "اطلاعات سیستم YITH"
+
+#. translators: 1. user display name; 2. user ID; 3. user email.
+#: plugin-fw/templates/fields/ajax-customers.php:68
+#: plugin-fw/templates/fields/ajax-customers.php:79
+msgid "%1$s (#%2$s &ndash; %3$s)"
+msgstr "%1$s (#%2$s &ndash; %3$s)"
+
+#. translators: %1$s open link tag, %2$s open link tag
+#: plugin-fw/includes/class-yith-system-status.php:346
+msgid "The system check has detected some compatibility issues on your installation.%1$sClick here%2$s to know more"
+msgstr "بررسی سیستم برخی از مشکلات سازگاری را در نصب شما تشخیص داده است. برای کسب اطلاعات بیشتر%1$s اینجا %2$s کلیک کنید"
+
+#: plugin-fw/includes/class-yith-system-status.php:342
+msgid "Warning!"
+msgstr "هشدار!"
+
+#: plugin-fw/includes/class-yith-system-status.php:191
+msgid "WooCommerce"
+msgstr "ووکامرس"
+
+#: plugin-fw/includes/class-yith-system-status.php:122
+msgid "URL FOpen"
+msgstr "نشانی اینترنتی FOpen"
+
+#: plugin-fw/includes/class-yith-system-status.php:121
+msgid "OPCache Save Comments"
+msgstr "OPCache ذخیره دیدگاه‌ها"
+
+#: plugin-fw/includes/class-yith-system-status.php:120
+msgid "Iconv Module"
+msgstr "ماژول Iconv"
+
+#: plugin-fw/includes/class-yith-system-status.php:119
+msgid "GD Library"
+msgstr "کتابخانه GD"
+
+#: plugin-fw/includes/class-yith-system-status.php:118
+msgid "ImageMagick Version"
+msgstr "نگارش ImageMagick"
+
+#: plugin-fw/includes/class-yith-system-status.php:117
+msgid "MultiByte String"
+msgstr "عبارت MultiByte"
+
+#: plugin-fw/includes/class-yith-system-status.php:116
+msgid "SimpleXML"
+msgstr "XML ساده"
+
+#: plugin-fw/includes/class-yith-system-status.php:115
+msgid "WordPress Cron"
+msgstr "وردپرس Cron"
+
+#: plugin-fw/includes/class-yith-system-status.php:114
+msgid "TLS Version"
+msgstr "نگارش TLS"
+
+#: plugin-fw/includes/class-yith-system-status.php:113
+msgid "PHP Version"
+msgstr "نگارش PHP"
+
+#: plugin-fw/includes/class-yith-system-status.php:112
+msgid "Available Memory"
+msgstr "حافظه دردسترس"
+
+#: plugin-fw/includes/class-yith-system-status.php:111
+msgid "WooCommerce Version"
+msgstr "نگارش ووکامرس"
+
+#: plugin-fw/includes/class-yith-system-status.php:110
+msgid "WordPress Version"
+msgstr "نگارش وردپرس"
+
+#: plugin-fw/includes/class-yith-system-status.php:140
+#: plugin-fw/includes/class-yith-system-status.php:141
+#: plugin-fw/templates/sysinfo/system-information-panel.php:11
+msgid "System Status"
+msgstr "وضعیت سیستم"
+
+#: plugin-fw/templates/fields/select-buttons.php:20
+msgid "Remove All"
+msgstr "پاک کردن همه"
+
+#: plugin-fw/templates/fields/select-buttons.php:19
+msgid "Add All"
+msgstr "افزودن همه"
+
+#: plugin-fw/templates/fields/date-format.php:65
+msgid "Custom:"
+msgstr "سفارشی:"
+
+#: plugin-fw/includes/class-yith-dashboard.php:137
+msgctxt "Button label"
+msgid "Close"
+msgstr "بستن"
+
+#: plugin-fw/includes/class-yith-dashboard.php:97
+msgctxt "Plugin FW"
+msgid "Latest update released on"
+msgstr "آخرین بروزرسانی منتشر شده"
+
+#: plugin-fw/includes/class-yith-dashboard.php:96
+msgctxt "Plugin FW"
+msgid "View Changelog"
+msgstr "مشاهده تغییرات"
+
+#: plugin-fw/includes/class-yith-dashboard.php:63
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "خطایی رخ داده است که ممکن است به این دلیل باشد که خوراک ازکار افتاده است. مجدد تلاش کنید."
+
+#: plugin-fw/includes/class-yith-dashboard.php:56
+msgid "RSS Error:"
+msgstr "خطای RSS:"
+
+#: plugin-fw/includes/class-yith-dashboard.php:36
+msgid "Latest news from YITH Blog"
+msgstr "جدیدترین اخبار ازبلاگ YITH"
+
+#: plugin-fw/includes/class-yith-dashboard.php:35
+msgid "YITH Latest Updates"
+msgstr "آخرین بروزرسانی YITH"
+
+#: plugin-fw/includes/builders/gutenberg/class-yith-gutenberg.php:152
+msgctxt "[gutenberg]: Category Name"
+msgid "YITH"
+msgstr "YITH"
+
+#. Author of the plugin
+msgid "YITH"
+msgstr "YITH"
+
+#. translators: placeholders are used for add <b> html tag.
+#: templates/admin/premium.php:485
+msgid "Moreover, if you want to give your users the chance to see in a glance how many products they have added to the Compare list, feel free to use the widget or the shortcode included. And their Compare list is always no more than one click away."
+msgstr "Moreover, if you want to give your users the chance to see in a glance how many products they have added to the Compare list, feel free to use the widget or the shortcode included. And their Compare list is always no more than one click away."
+
+#: templates/admin/premium.php:480
+msgid "Compare counter - widget and shortcode"
+msgstr "ابزارک و کدکوتاه - شمارنده مقایسه"
+
+#: templates/admin/premium.php:464
+msgid "Compare list - widget"
+msgstr "ابزارک - لیست مقایسه"
+
+#. Description of the plugin
+msgid "The <code><strong>YITH WooCommerce Compare</strong></code> plugin allow you to compare in a simple and efficient way products on sale in your shop and analyze their main features in a single table. <a href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for your e-commerce shop on <strong>YITH</strong></a>."
+msgstr "افزونه  <code><strong>YITH WooCommerce Compare</strong></code> به شما این امکان را می دهد تا به ساده ترین روش ممکن بتوانید محصولات خود را در فروشگاه در یک جدول با یکدیگر مقایسه کنید.<a href=\"https://yithemes.com/\" target=\"_blank\">برای دریافت سایر افزونه های <strong>YITH</strong></a> مراجعه کنید."
+
+#: includes/class.yith-woocompare-admin.php:115 plugin-fw/yit-plugin.php:233
+msgid "License"
+msgstr "لایسنس"
+
+#: plugin-fw/yit-plugin.php:229
+msgctxt "Action links"
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: plugin-fw/yit-plugin.php:97
+msgctxt "Plugin Row Meta"
+msgid "Premium version"
+msgstr "نسخه پولی"
+
+#: plugin-fw/yit-plugin.php:93
+msgctxt "Plugin Row Meta"
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: plugin-fw/yit-plugin.php:89
+msgctxt "Plugin Row Meta"
+msgid "Documentation"
+msgstr "مستندات"
+
+#: plugin-fw/yit-plugin.php:85
+msgctxt "Plugin Row Meta"
+msgid "Live Demo"
+msgstr "دموی زنده"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:106
+msgctxt "Privacy Policy Content"
+msgid "Payments"
+msgstr "پرداخت‌ها"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:103
+msgctxt "Privacy Policy Content"
+msgid "What we share with others"
+msgstr "چه چیزی را با دیگران به اشتراک می گذاریم"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:100
+msgctxt "Privacy Policy Content"
+msgid "Who on our team has access"
+msgstr "چه کسانی در تیم ما دسترسی دارند"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:97
+msgctxt "Privacy Policy Content"
+msgid "What we collect and store"
+msgstr "چه چیزی را گلچین و نگهداری میکنیم"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:93
+msgctxt "Privacy Policy Content"
+msgid "This sample language includes the basics around what personal data your store may be collecting, storing and sharing, as well as who may have access to that data. Depending on what settings are enabled and which additional plugins are used, the specific information shared by your store will vary. We recommend consulting with a lawyer when deciding what information to disclose on your privacy policy."
+msgstr "This sample language includes the basics around what personal data your store may be collecting, storing and sharing, as well as who may have access to that data. Depending on what settings are enabled and which additional plugins are used, the specific information shared by your store will vary. We recommend consulting with a lawyer when deciding what information to disclose on your privacy policy."
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:61
+msgctxt "Privacy Policy Guide Title"
+msgid "YITH Plugins"
+msgstr "افزونه‌های YITH"
+
+#: plugin-fw/templates/fields/icons.php:78
+msgid "Set Default"
+msgstr "تنظیم پیش‌فرض"
+
+#: includes/class.yith-woocompare-helper.php:50
+msgid "Sku"
+msgstr "موجودی"
+
+#: includes/class.yith-woocompare-frontend.php:228
+msgctxt "Label for popup close icon"
+msgid "Close"
+msgstr "بستن"
+
+#: includes/class.yith-woocompare-helper.php:53
+msgid "Dimensions"
+msgstr "ابعاد"
+
+#: includes/class.yith-woocompare-helper.php:52
+msgid "Weight"
+msgstr "وزن کالا"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:456
+#: plugin-fw/includes/class-yit-plugin-panel.php:459
+msgid "How to install premium version"
+msgstr "چگونه نسخه پولی را نصب کنید"
+
+#. Plugin URI of the plugin
+msgid "https://yithemes.com/themes/plugins/yith-woocommerce-compare/"
+msgstr "https://yithemes.com/themes/plugins/yith-woocommerce-compare/"
+
+#. translators: placeholders are used for add <b> html tag.
+#: templates/admin/premium.php:469
+msgid "Thanks to YITH WooCommerce Comapre Widget users could verify at any time the complete list of products added to the compare tab and avoid to open the popup to check its existence. "
+msgstr "با تشکر بخاطر استفاده از ابزارک افزونه مقایسه ووکامرس که می تواند هروقت خواست تائید کند لیست کاملی از محصولات اضافه شده به تب مقایسه و جلوگیری کند از بازشدن یک پاپ آپ جدید برای بررسی وجود آن."
+
+#: plugin-fw/templates/fields/upload.php:39
+msgid "Reset"
+msgstr "تنظیم مجدد"
+
+#. translators: placeholders are used for add <b> html tag.
+#: templates/admin/premium.php:447
+msgid "Select the products you want to compare and the system will offer you the %1$sshortcode%2$s to generate a comparing table. Simple, rapid and useful."
+msgstr "انتخاب کنید محوصلاتی را که می خواهید مقایسه کنید و سیستم به شما پیشنهاد دهد %1$sshortcode%2$s برای تولید جدول مقایسه. ساده،سریع و مفید."
+
+#: templates/admin/premium.php:442
+msgid "A TAILORED TABLE"
+msgstr "جدول مناسب"
+
+#. translators: placeholders are used for add <b> html tag.
+#: templates/admin/premium.php:431
+msgid "Let you users compare products following every feature, and considering also all those %1$sattributes%2$s that can be manually created in within the product detail page. Every single detail will be included."
+msgstr "به کاربران شما اجازه مقاسه محصولات در هر ویژگی را می دهد، و تمرکز بر روی همه %1$sattributes%2$s که می تواند بصورت دستی ایجاد شود در برگه جزئیات محصول. هر جزئیات تکی را شامل می شود."
+
+#: templates/admin/premium.php:426
+msgid "CUSTOMIZED ATTRIBUTES"
+msgstr "سفارشی‌سازی ویژگی‌ها"
+
+#. Author URI of the plugin
+msgid "https://yithemes.com/"
+msgstr "https://yithemes.com"
+
+#. Plugin Name of the plugin
+msgid "YITH WooCommerce Compare"
+msgstr "افزونه مقایسه ووکامرس"
+
+#: widgets/class.yith-woocompare-widget.php:54
+msgid "Clear all"
+msgstr "پاک کردن همه"
+
+#: widgets/class.yith-woocompare-widget.php:27
+msgid "YITH WooCommerce Compare Widget"
+msgstr "ابزارک مقایسه ووکامرس YITH"
+
+#: widgets/class.yith-woocompare-widget.php:23
+msgid "The widget shows the list of products added in the comparison table."
+msgstr "ابزارک لیستی از محصولات افزوده شده را در جدول مقایسه  نشان می دهد."
+
+#: templates/compare.php:122
+msgid "No products added in the compare table."
+msgstr "هیچ محصولی در جدول مقایسه اضافه نشده است."
+
+#: templates/compare.php:87
+msgid "Close window [X]"
+msgstr "بستن پنجره [X]"
+
+#. translators: placeholders are used for add <b> html tag.
+#: templates/admin/premium.php:409
+msgid "An advanced option panel that let you change all the colors of the plugin, so that you can adapt stylistically all its elements %1$sto the layout%2$s of your shop.We know it, looks also count... and we give you the right tools to get to the best result."
+msgstr "یک پنل تنظیمات پیشرفته که به شما اجازه تغییر همه رنگ های افزونه را می دهد، که شما می توانید همه ی عناصر خود را با سبک بندی سازگار کنید%1$sبه طرح%2$s از فروشگاه. می دانیم،نگاه به شمارش... و به شما ابزار مناسب را می دهیم برای گرفتن بهترین نتیجه."
+
+#: templates/admin/premium.php:404
+msgid "CUSTOMIZABLE STYLE"
+msgstr "سفارشی‌سازی استایل"
+
+#. translators: placeholders are used for add <b> html tag.
+#: templates/admin/premium.php:393
+msgid "All the products that have common categories and/or tags with those in the comparison table will be showed in a slider, right under the comparison table.%3$sA completely %1$s\"touch friendly\"%2$s slider to encourage your users to discover the shop products of the shop related to those they are interested into."
+msgstr "All the products that have common categories and/or tags with those in the comparison table will be showed in a slider, right under the comparison table.%3$sA completely %1$s\"touch friendly\"%2$s slider to encourage your users to discover the shop products of the shop related to those they are interested into."
+
+#: templates/admin/premium.php:388
+msgid "RELATED PRODUCTS"
+msgstr "محصولات مرتبط"
+
+#. translators: placeholders are used for add <b> html tag.
+#: templates/admin/premium.php:371
+msgid "One of the most appealing features of the premium version of the plugin.Four social network sites for your users (Facebook, Twitter, Google + and Pinterest) and the email system %1$sto share%2$s the comparison table of the products they have selected."
+msgstr "One of the most appealing features of the premium version of the plugin.Four social network sites for your users (Facebook, Twitter, Google + and Pinterest) and the email system %1$sto share%2$s the comparison table of the products they have selected."
+
+#: templates/admin/premium.php:366
+msgid "SOCIAL NETWORK SHARING"
+msgstr "اشتراک گذاری شبکه‌های اجتماعی"
+
+#. translators: placeholders are used for add <b> html tag.
+#: templates/admin/premium.php:355
+msgid "With this precious feature, you will be able to show in the table only the fields that have information in at least one of the selected products.%3$sActivate the %1$s\"Dynamic Attribute fields\"%2$s option and there will be no more empty lines in your comparison table."
+msgstr "With this precious feature, you will be able to show in the table only the fields that have information in at least one of the selected products.%3$sActivate the %1$s\"Dynamic Attribute fields\"%2$s option and there will be no more empty lines in your comparison table."
+
+#: templates/admin/premium.php:350
+msgid "DYNAMIC FIELDS"
+msgstr "فیلدهای پویا"
+
+#. translators: placeholders are used for add <b> html tag.
+#: templates/admin/premium.php:333
+msgid "Give a personal touch to the %1$scomparison table%2$s your users will see. Select an image, upload it from the option panel and show it ahead of the table to your users. "
+msgstr "Give a personal touch to the %1$scomparison table%2$s your users will see. Select an image, upload it from the option panel and show it ahead of the table to your users. "
+
+#: templates/admin/premium.php:328
+msgid "TABLE IMAGE"
+msgstr "تصویر جدول"
+
+#. translators: placeholders are used for add <b> html tag.
+#: templates/admin/premium.php:317
+msgid "In your shop there may be product categories you don't want to be affected by the plugin features, deleting the comparison button for them. The premium version of the plugin offers this too.%3$sAnd there's more! Activating the %1$s\"Reverse exclusion list\"%2$s option, you can also invert the behavior of the feature, allowing the comparison only to those products of the selected categories."
+msgstr "In your shop there may be product categories you don't want to be affected by the plugin features, deleting the comparison button for them. The premium version of the plugin offers this too.%3$sAnd there's more! Activating the %1$s\"Reverse exclusion list\"%2$s option, you can also invert the behavior of the feature, allowing the comparison only to those products of the selected categories."
+
+#: templates/admin/premium.php:312
+msgid "CATEGORY EXCLUSION "
+msgstr "حذف دسته"
+
+#. translators: placeholders are used for add <b> html tag.
+#: templates/admin/premium.php:295
+msgid "People are often confused by finding products of different categories in the comparison table, creating difficulties in comparing the products they are interested into.The %1$s\"Compare by category\"%2$s option exists for this need: you will be able to separate the products in the table by category affinity."
+msgstr "People are often confused by finding products of different categories in the comparison table, creating difficulties in comparing the products they are interested into.The %1$s\"Compare by category\"%2$s option exists for this need: you will be able to separate the products in the table by category affinity."
+
+#: templates/admin/premium.php:290
+msgid "CATEGORY COMPARATION"
+msgstr "مقایسه دسته"
+
+#. translators: placeholders are used for add <b> html tag.
+#: templates/admin/premium.php:279
+msgid "Don't you want to compare your products in a modal window anymore?%3$sWith the premium version of %1$sYITH WooCommerce Compare%2$s, a new page will be created automatically in your site and, adding it among the menu entries, you will be able to give to your users the chance to access it easily whenever they want."
+msgstr "Don't you want to compare your products in a modal window anymore?%3$sWith the premium version of %1$sYITH WooCommerce Compare%2$s, a new page will be created automatically in your site and, adding it among the menu entries, you will be able to give to your users the chance to access it easily whenever they want."
+
+#: templates/admin/premium.php:274
+msgid "A DEDICATED PAGE"
+msgstr "یک صفحه اختصاصی"
+
+#: templates/admin/premium.php:266
+msgid "Premium Features"
+msgstr "ویژگی‌های پولی"
+
+#: templates/admin/premium.php:260 templates/admin/premium.php:505
+msgid "to the premium version"
+msgstr "به نسخه پولی"
+
+#: templates/admin/premium.php:259 templates/admin/premium.php:504
+msgid "UPGRADE"
+msgstr "ارتقاء"
+
+#. translators: placeholders are used for add html tag.
+#: templates/admin/premium.php:255 templates/admin/premium.php:500
+msgid "Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Compare%2$s to benefit from all features!"
+msgstr "Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Compare%2$s to benefit from all features!"
+
+#: plugin-options/general-options.php:112
+msgid "Set the size for the images"
+msgstr "تعیین اندازه برای نگاره"
+
+#: plugin-options/general-options.php:111
+msgid "Image size"
+msgstr "اندازه تصویر"
+
+#: plugin-options/general-options.php:104
+msgid "Repeat the \"Add to cart\" field at the end of the table"
+msgstr "تکرار فیلد \"افزودن به سبد خرید\" در انتهای جدول"
+
+#: plugin-options/general-options.php:103
+msgid "Repeat \"Add to cart\" field"
+msgstr "تکرار فیلد \"افزودن به سبد خرید\""
+
+#: plugin-options/general-options.php:96
+msgid "Repeat the \"Price\" field at the end of the table"
+msgstr "تکرار فیلد \"قیمت\" در انتهای جدول"
+
+#: plugin-options/general-options.php:95
+msgid "Repeat \"Price\" field"
+msgstr "تکرار فیلد \"قیمت\""
+
+#: plugin-options/general-options.php:88
+msgid "Select the fields to show in the comparison table and order them by drag&drop (are included also the woocommerce attributes)"
+msgstr "انتخاب این گزینه برای نشان دادن در جدول مقایسه و سفارش سازی آنها با کشیدن و رها کردن دکمه ماوس (ویژگی های ووکامرس را شامل می شود)"
+
+#: plugin-options/general-options.php:87
+msgid "Fields to show"
+msgstr "فیلدها جهت نمایش"
+
+#: plugin-options/general-options.php:82 templates/compare.php:29
+msgid "Compare products"
+msgstr "مقایسه‌ی محصولات"
+
+#: plugin-options/general-options.php:80
+msgid "Type the text to use for the table title."
+msgstr "نوشتن متن برای استفاده در عنوان جدول"
+
+#: plugin-options/general-options.php:79
+msgid "Table title"
+msgstr "عنوان جدول"
+
+#: plugin-options/general-options.php:72
+msgid "Table Settings"
+msgstr "تنظیمات جدول"
+
+#: plugin-options/general-options.php:60
+msgid "Open link after click into \"Compare\" button\"."
+msgstr "بعد از کلیک روی  \"دکمه\" مقایسه\" لینک باز شود."
+
+#: plugin-options/general-options.php:59
+msgid "Open automatically lightbox"
+msgstr "باز کردن خودکار در lightbox"
+
+#: plugin-options/general-options.php:52
+msgid "Say if you want to show the button in the products list."
+msgstr "اگر می خواهید  دکمه در لیست محصول نمایش داده شود"
+
+#: plugin-options/general-options.php:51
+msgid "Show button in products list"
+msgstr "نمایش دکمه در لیست محصولات"
+
+#: plugin-options/general-options.php:44
+msgid "Say if you want to show the button in the single product page."
+msgstr "اگر می‌خواهید دکمه در برگه محصول نمایش داده شود"
+
+#: plugin-options/general-options.php:43
+msgid "Show button in single product page"
+msgstr "نمایش دکمه در صفحه محصول واحد"
+
+#: plugin-options/general-options.php:36
+msgid "Type the text to use for the button or the link of the compare."
+msgstr "متن مورد استفاده برای دکمه  یا لینک مقایسه را بنویسید."
+
+#: plugin-options/general-options.php:35
+msgid "Link/Button text"
+msgstr "متن لینک/دکمه"
+
+#: plugin-options/general-options.php:30
+msgid "Button"
+msgstr "دکمه"
+
+#: plugin-options/general-options.php:29
+msgid "Link"
+msgstr "لینک"
+
+#: plugin-options/general-options.php:23
+msgid "Choose if you want to use a link or a button for the comepare actions."
+msgstr "اگر می‌خواهید واکنش دکمه بصورت لینک و یا دکمه باشد، برگزینید."
+
+#: plugin-options/general-options.php:22
+msgid "Link or Button"
+msgstr "لینک یا دکمه"
+
+#: plugin-options/general-options.php:15
+msgid "General Settings"
+msgstr "تنظیمات عمومی"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:43
+msgid "Reset Defaults"
+msgstr "بازگردانی به پیشفرض"
+
+#: plugin-fw/templates/fields/sidebars.php:54
+msgid "Right Sidebar"
+msgstr "ناحیه کناری راست"
+
+#: plugin-fw/templates/fields/sidebars.php:39
+msgid "Left Sidebar"
+msgstr "ناحیه کناری چپ"
+
+#: plugin-fw/templates/fields/sidebars.php:41
+#: plugin-fw/templates/fields/sidebars.php:56
+msgid "Choose a sidebar"
+msgstr "انتخاب ناحیه کناری"
+
+#: plugin-fw/templates/fields/sidebars.php:23
+msgid "Right sidebar"
+msgstr "ناحیه کناری راست"
+
+#: plugin-fw/templates/fields/sidebars.php:26
+#: plugin-fw/templates/fields/sidebars.php:29
+msgid "No sidebar"
+msgstr "بدون ناحیه کناری"
+
+#: plugin-fw/templates/fields/sidebars.php:20
+msgid "Left sidebar"
+msgstr "ناحیه کناری چپ"
+
+#: plugin-fw/templates/fields/image-gallery.php:41
+msgid "Delete"
+msgstr "حذف"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Add images"
+msgstr "افزودن تصاویر"
+
+#: plugin-fw/templates/fields/image-gallery.php:38
+msgid "Add to gallery"
+msgstr "افزودن به گالری"
+
+#: plugin-fw/templates/fields/image-gallery.php:37
+msgid "Add Images to Gallery"
+msgstr "افزودن تصاویر به گالری"
+
+#: plugin-fw/templates/fields/image-gallery.php:29
+#: plugin-fw/templates/fields/image-gallery.php:40
+msgid "Delete image"
+msgstr "حذف تصویر"
+
+#: plugin-fw/templates/fields/customtabs.php:93
+msgid "Do you want to remove the custom tab?"
+msgstr "آیا میخواهید تب سفارشی را حذف کنید?"
+
+#: plugin-fw/templates/fields/customtabs.php:52
+msgid "Add custom product tab"
+msgstr "افزودن تب سفارشی محصول"
+
+#: plugin-fw/templates/fields/customtabs.php:41
+#: plugin-fw/templates/fields/customtabs.php:82
+msgid "Content of the tab. (HTML is supported)"
+msgstr "محتوای تب.( HTML پیشتیبانی می شود)"
+
+#: plugin-fw/templates/fields/customtabs.php:40
+#: plugin-fw/templates/fields/customtabs.php:81
+msgid "Value"
+msgstr "مقدار"
+
+#: plugin-fw/templates/fields/customtabs.php:17
+msgid "Expand all"
+msgstr "گسترش همه"
+
+#: plugin-fw/templates/fields/customtabs.php:17
+msgid "Close all"
+msgstr "بستن همه"
+
+#: plugin-fw/templates/fields/upload.php:34
+#: plugin-fw/templates/panel/woocommerce/woocommerce-upload.php:37
+msgid "Upload"
+msgstr "بارگذاری"
+
+#: plugin-fw/includes/class-yit-pointers.php:96
+msgid "Plugins Upgraded"
+msgstr "افزونه‌ها ارتقاء یافتند"
+
+#: plugin-fw/includes/class-yit-pointers.php:80
+msgid "Plugins Activated"
+msgstr "افزونه‌ها فعال شدند"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1317
+msgid "Sorting successful."
+msgstr "مرتب‌سازی موفق بود."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1316
+msgid "Sorry, import is disabled."
+msgstr "متاسفانه، درون‌ریزی غیرفعال است."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1315
+msgid "The added file is not valid."
+msgstr "پرونده افزوده شده معتبر نیست."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1314
+msgid "An error has occurred during import. Please try again."
+msgstr "خطائی هنگام درون‌ریزی رخ داده است. مجدد تلاش کنید."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1313
+msgid "Database imported correctly."
+msgstr "پایگاه داده به درستی درون‌ریزی شد."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1311
+#: plugin-fw/includes/class-yit-plugin-panel.php:1312
+msgid "Element updated correctly."
+msgstr "عنصر به درستی بروزرسانی شد."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1310
+msgid "Element deleted correctly."
+msgstr "عنصر به درستی حذف شد."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1309
+msgid "Settings reset"
+msgstr "تنظیمات بازگردانی شد"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1308
+msgid "Settings saved"
+msgstr "تنظیمات ذخیره شد"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1307
+msgid "The element you have entered already exists. Please, enter another name."
+msgstr "عنصری که وارد کردید وجود دارد. نام دیگری وارد کنید."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:664
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:140
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:15
+msgid "Are you sure?"
+msgstr "آیا اطمینان دارید?"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:668
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:143
+msgid "Reset to default"
+msgstr "بازگشت به پیشفرض"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:664
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:140
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:15
+msgid "If you continue with this action, you will reset all options in this page."
+msgstr "اگر این عمل را ادامه دهید، تمام تنظیمات این صفحه بازگردانی می شود."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:656
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:133
+msgid "Save Changes"
+msgstr "ذخیره‌ی تغییرات"
+
+#: plugin-fw/includes/class-yith-system-status.php:183
+msgid "YITH Plugins"
+msgstr "افزونه‌های YITH"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:83
+msgid "Plugin Settings"
+msgstr "تنظیمات افزونه"
+
+#: plugin-fw/includes/class-yit-plugin-panel-woocommerce.php:437
+msgid "The changes you have made will be lost if you leave this page."
+msgstr "تغییراتی که در این صفحه ایجاد کرده اید با ترک آن ازبین می رود."
+
+#: plugin-fw/templates/fields/customtabs.php:34
+#: plugin-fw/templates/fields/customtabs.php:76
+msgid "Name"
+msgstr "نام"
+
+#: init.php:67
+msgid "You can't activate the free version of YITH WooCommerce Compare while you are using the premium one."
+msgstr "هنگامیکه نسخه پولی افزونه مقایسه YITH ووکامرس را بکار گرفته‌اید، نمی‌توانید نگارش رایگان افزونه را بکار بگیرید."
+
+#: init.php:52
+msgid "YITH WooCommerce Compare is enabled but not effective. It requires WooCommerce in order to work."
+msgstr "افزونه مقایسه محصولات ووکامرس فعال است اما تأثیر گذار نیست. نیاز است تا ووکامرس نیز فعال باشد."
+
+#: includes/class.yith-woocompare-helper.php:51
+msgid "Availability"
+msgstr "وضعیت موجود بودن:"
+
+#: includes/class.yith-woocompare-helper.php:49
+msgid "Description"
+msgstr "توضیح"
+
+#: includes/class.yith-woocompare-helper.php:48
+msgid "Add to cart"
+msgstr "خرید این محصول"
+
+#: includes/class.yith-woocompare-helper.php:47
+msgid "Price"
+msgstr "قیمت"
+
+#: includes/class.yith-woocompare-helper.php:46
+#: widgets/class.yith-woocompare-widget.php:72
+msgid "Title"
+msgstr "عنوان"
+
+#: includes/class.yith-woocompare-helper.php:45
+msgid "Image"
+msgstr "تصویر"
+
+#: includes/class.yith-woocompare-frontend.php:756
+#: plugin-fw/templates/fields/customtabs.php:25
+#: plugin-fw/templates/fields/customtabs.php:68 templates/compare.php:139
+msgid "Remove"
+msgstr "پاک کردن"
+
+#: includes/class.yith-woocompare-frontend.php:744
+msgid "No products to compare"
+msgstr "محصولی برای مقایسه پیدا نشد."
+
+#: includes/class.yith-woocompare-frontend.php:381
+msgid "In stock"
+msgstr "موجود است"
+
+#: includes/class.yith-woocompare-frontend.php:223 templates/compare.php:57
+msgid "Product Comparison"
+msgstr "مقایسه محصول"
+
+#: includes/class.yith-woocompare-frontend.php:222
+msgid "Added"
+msgstr "اضافه شد"
+
+#: includes/class.yith-woocompare-admin.php:353
+msgid "Do you want to hard crop the image?"
+msgstr "آیا می خواهید عکس به صورت پوششی نمایش داده شود؟"
+
+#: includes/class.yith-woocompare-frontend.php:226
+#: includes/class.yith-woocompare-frontend.php:515
+#: plugin-options/general-options.php:38
+#: widgets/class.yith-woocompare-widget.php:55
+msgid "Compare"
+msgstr "مقایسه"
+
+#: includes/class.yith-woocompare-admin.php:141
+msgid "Premium Version"
+msgstr "نسخه پیشرفته"
+
+#: includes/class.yith-woocompare-admin.php:113
+#: includes/class.yith-woocompare-admin.php:137
+#: plugin-fw/includes/class-yit-plugin-panel.php:84
+msgid "Settings"
+msgstr "تنظیمات"

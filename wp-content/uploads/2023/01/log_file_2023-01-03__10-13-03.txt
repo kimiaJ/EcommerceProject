@@ -1,0 +1,53 @@
+
+---فایلهای بارگیری شده---
+فایلهای درون ریزی برای:دموی اصلی با موفقیت بارگیری شد!
+حداکثر زمان اجرای اولیه =120
+اطلاعات فایل ها :
+Site URL = http://localhost/herbs
+فایل اطلاعات = C:\xampp\htdocs\herbs/wp-content/themes/organic-shop hamyarwp/hwp_inc/import_files/content.xml
+فایل ابزارک = C:\xampp\htdocs\herbs/wp-content/themes/organic-shop hamyarwp/hwp_inc/import_files/widget.wie
+فایل های سفارشی ساز= C:\xampp\htdocs\herbs/wp-content/themes/organic-shop hamyarwp/hwp_inc/import_files/customizer.dat
+Redux فایل ها:
+تعریف نشده!
+
+---درحال درون ریزی ابزارک ---
+Main Sidebar : 
+
+جستجو - بدون عنوان - درون ریزیز شده است
+نوشته‌های تازه - بدون عنوان - درون ریزیز شده است
+آخرین دیدگاه‌ها - بدون عنوان - درون ریزیز شده است
+بایگانی‌ها - بدون عنوان - درون ریزیز شده است
+دسته‌ها - بدون عنوان - درون ریزیز شده است
+اطلاعات - بدون عنوان - درون ریزیز شده است
+
+Footer Bar Section 1 : 
+
+متن - بدون عنوان - درون ریزیز شده است
+
+Footer Bar Section 2 : 
+
+astra-widget-social-profiles - بدون عنوان - سایت از ابزارک پشتیبانی نمی کند
+
+Footer Widget Area 1 : 
+
+متن - داستان یک ارزو - درون ریزیز شده است
+
+Footer Widget Area 2 : 
+
+astra-widget-address - اطلاعات تماس - سایت از ابزارک پشتیبانی نمی کند
+
+Footer Widget Area 3 : 
+
+woocommerce_products - محصولات - سایت از ابزارک پشتیبانی نمی کند
+
+Footer Widget Area 4 : 
+
+woocommerce_product_categories - دسته‌های محصولات - سایت از ابزارک پشتیبانی نمی کند
+
+
+
+---درون ریزی تنظیمات سفارشی ساز---
+خطا: فایل وارد کننده سفارشی ساز برای پوسته فعلی مناسب نیست. فقط می توانید تنظیمات سفارشی ساز را برای همان پوسته یا پوسته فرزند وارد کنید.
+
+---ocdi/after_import---
+

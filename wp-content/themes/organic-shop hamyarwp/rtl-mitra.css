@@ -1,0 +1,123 @@
+@font-face {
+  font-family: mitra;
+  font-style: normal;
+  font-weight: bold;
+  src: url('fonts/BMitraBold.woff') format('woff');
+}
+@font-face {
+  font-family: mitra;
+  font-style: normal;
+  font-weight: normal;
+  src: url('fonts/BMitra.woff') format('woff');
+}
+
+.elementor-95 .elementor-element.elementor-element-a584ef8 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap {
+    font-family: mitra !important;
+}
+body .elementor-button.elementor-size-sm, body .elementor-button.elementor-size-xs, body .elementor-button.elementor-size-md, body .elementor-button.elementor-size-lg, body .elementor-button.elementor-size-xl, body .elementor-button {
+    font-family: mitra;
+}
+.ast-theme-transparent-header .site-title a, .ast-theme-transparent-header .site-title a:focus, .ast-theme-transparent-header .site-title a:hover, .ast-theme-transparent-header .site-title a:visited {
+    font-family: mitra;
+}
+.woocommerce a.button, .woocommerce button.button, .woocommerce .woocommerce-message a.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce input.button, .woocommerce-cart table.cart td.actions .button, .woocommerce form.checkout_coupon .button, .woocommerce #respond input#submit, .wc-block-grid__products .wc-block-grid__product .wp-block-button__link {
+    font-family: mitra;
+	}
+h1, .entry-content h1, .entry-content h1 a, h2, .entry-content h2, .entry-content h2 a, h3, .entry-content h3, .entry-content h3 a, h4, .entry-content h4, .entry-content h4 a, h5, .entry-content h5, .entry-content h5 a, h6, .entry-content h6, .entry-content h6 a, .site-title, .site-title a {
+    font-family: mitra;
+}
+body, h1, .entry-title a, .entry-content h1, .entry-content h1 a, h2, .entry-content h2, .entry-content h2 a, h3, .entry-content h3, .entry-content h3 a, h4, .entry-content h4, .entry-content h4 a, h5, .entry-content h5, .entry-content h5 a, h6, .entry-content h6, .entry-content h6 a {
+    color: #333333;
+    font-family: mitra !important;
+}
+.woocommerce .woocommerce-ordering select {
+    font-family: mitra !important;
+}
+.elementor-95 .elementor-element.elementor-element-8c51def {
+    text-align: right;
+}
+.elementor-95 .elementor-element.elementor-element-cbd1d88 {
+    text-align: right;
+}
+.elementor-95 .elementor-element.elementor-element-c7ff546 {
+    text-align: right;
+}
+
+.elementor-95 .elementor-element.elementor-element-5103401 .elementor-icon-box-wrapper {
+    text-align: right;
+}
+.elementor-95 .elementor-element.elementor-element-81973f2 .elementor-icon-box-wrapper {
+    text-align: right;
+}
+.elementor-95 .elementor-element.elementor-element-131087e .elementor-icon-box-wrapper {
+    text-align: right;
+}
+.elementor-95 .elementor-element.elementor-element-4e1ab7b .elementor-icon-box-wrapper {
+    text-align: right;
+}
+.fa-arrow-right::before {
+    content: "\f060";
+}
+.elementor-toggle .elementor-tab-title .elementor-toggle-icon.elementor-toggle-icon-right {
+    float: left;
+}
+.elementor-96 .elementor-element.elementor-element-7f38b0a > .elementor-element-populated {
+    margin-left: 80px;
+    margin-right: 0px;
+}
+.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper {
+    text-align: right;
+}
+.elementor-96 .elementor-element.elementor-element-26140280 {
+    text-align: right;
+}
+.elementor-widget.elementor-align-left .elementor-icon-list-item, .elementor-widget.elementor-align-left .elementor-icon-list-item a {
+    text-align: right;
+}
+.elementor-96 .elementor-element.elementor-element-43e88a11 > .elementor-element-populated {
+    margin-left: 0px;
+    margin-right: 80px;
+}
+.elementor-95 .elementor-element.elementor-element-d6de3d9 .elementor-button .elementor-align-icon-right {
+    margin-left: 7px;
+}
+.widget-address-field .address-meta {
+    margin-right: 5px;
+    margin-left: inherit;
+}
+#astra-widget-social-profiles-1 .astra-widget-social-profiles-inner.inline li > a {
+    padding-left: 28px;
+    padding-right: inherit;
+}
+.astra-widget-social-profiles-inner li > a .ast-widget-icon {
+    margin-left: .3em;
+    margin-right: inherit;
+}
+.woocommerce ul.products li.product .onsale {
+    right: 0;
+    left: inherit;
+    margin-left: inherit;
+    margin-right: -0.5em;
+}
+.woocommerce div.product div.images .woocommerce-product-gallery__trigger {
+    right: .5em;
+    left: inherit;
+}
+.woocommerce span.onsale {
+    right: inherit;
+    left: 500px;
+}
+.comment-form-cookies-consent {
+
+width: 100%;
+display: inline-block;
+}
+.astra-widget-social-profiles-inner.inline li {
+    float: inline-end;
+}
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+    text-align: center;
+}
+.woocommerce ul.products li.product .star-rating, .woocommerce-page ul.products li.product .star-rating {
+    margin-right: auto !important;
+}
